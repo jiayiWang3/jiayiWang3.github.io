@@ -6,3 +6,4 @@ tags: [TAG]     # TAG names should always be lowercase
 # comments: This is my first comment.
 ---
 hello, this is my first blog!
+I am trying to make this website nice!
